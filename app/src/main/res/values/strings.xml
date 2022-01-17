@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Gift exchange</string>
+    <string name="app_name">Анонимный обмен подарками</string>
+    <string name="auth_sign_up_button">Зарегистрироваться</string>
+    <string name="auth_sign_in_button">Войти</string>
+    <string name="auth_email_edit_text">E-mail</string>
+    <string name="auth_password_edit_text">Пароль</string>
 </resources>
